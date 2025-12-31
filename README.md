@@ -1,3 +1,8 @@
-**Deneme**
-__Deneme__
-`Deneme`
+✨ `Auto-Group-Messager` ✨
+
+**🕸️ Sürüm : V1.0**
+**🛡️ Durum | ON - 🟢**
+
+__DEV - @lagonll__
+
+
