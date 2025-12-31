@@ -3,6 +3,6 @@
 **🕸️ Sürüm : V1.0**
 **🛡️ Durum | ON - 🟢**
 
-__DEV - @lagonll__
+_Dev - @yusufbabadev_
 
 
